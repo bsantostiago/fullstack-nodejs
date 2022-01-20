@@ -14,3 +14,8 @@
 
 ## Para limpar a tela de comandos
 `cls ou clear (mac/linux)`
+
+
+
+# Gerenciamento de pacotes (módulos) usando NPM
+
